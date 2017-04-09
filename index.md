@@ -3,7 +3,7 @@
 <br />
 by Ali S. Damsarko
 <br />
-<a href="https://twitter.com/alidoom2010" class="btn">twitter</a>
 <br />
-<a href="https://www.facebook.com/alidoom2010" class="btn">facebook</a>
+<a href="https://twitter.com/alidoom2010" class="btn">Twitter</a>
+<a href="https://www.facebook.com/alidoom2010" class="btn">Facebook</a>
 </section>
