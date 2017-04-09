@@ -2,7 +2,7 @@ title: Unblockdoom
 description: UnblockDoom is an Opensource Project to Secure Internet Connection and Unblock Websites
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
